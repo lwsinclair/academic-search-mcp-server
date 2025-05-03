@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/afrise-academic-search-mcp-server-badge.png)](https://mseep.ai/app/afrise-academic-search-mcp-server)
+
 # Academic Paper Search MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@afrise/academic-search-mcp-server)](https://smithery.ai/server/@afrise/academic-search-mcp-server)
